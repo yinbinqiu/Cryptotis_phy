@@ -1,6 +1,7 @@
 Cryptotis-geneious.geneious file
 
 Coding:
+```
 ND1
 ND2
 ND3
@@ -14,8 +15,10 @@ COX3
 CYTB
 ATP6
 ATP8
+```
 
 tRNA:
+```
 TRNF
 TRNV
 TRNL1
@@ -37,9 +40,11 @@ TRNH
 TRNE
 TRNT
 TRNP
+```
 
 rRNA product:
+```
 12S ribosomal RNA
 16S ribosomal RNA
-
-In the rRNA_coding. phy file, tRNA, ND6 gene sequences and a D-loop region were deleted
+```
+In the rRNA_coding. phy file, tRNA, ND6 gene sequences and a D-loop region were deleted.
