@@ -42,4 +42,4 @@ rRNA product:
 12S ribosomal RNA
 16S ribosomal RNA
 
-In the rRN_coding.phy file, the ND6 gene sequence and a D-loop region were deleted
+In the rRNA_coding.phy file, the ND6 gene sequence and a D-loop region were deleted
